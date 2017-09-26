@@ -1,4 +1,3 @@
-# hola_mundo
-Test rep
+Zalążki:
 
-Zmiany w pierwszej iteracji
+-dodatek do chrome do wykrywanie updatów na stronach www
